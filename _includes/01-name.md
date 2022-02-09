@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Hello I am Srikar Preetham 
+## I am a Dedicated Programmer 
+### I turn Coffee to code !!
